@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bb2775e-7fc3-49b8-ab75-21b3974d36d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSXQBeByjoxyC5cj9bpZxFR7gO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppTest.generateAllTrueString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.awin.tracking.tcf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.awin.tracking.tcf" />
+      <option name="MAIN_CLASS_NAME" value="com.awin.tracking.tcf.AppTest" />
+      <option name="METHOD_NAME" value="generateAllTrueString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.generateAllTrueString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb2775e-7fc3-49b8-ab75-21b3974d36d9" name="Default Changelist" comment="" />
+      <created>1603798447940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603798447940</updated>
+      <workItem from="1603798449040" duration="2276000" />
+      <workItem from="1603803629823" duration="1967000" />
+      <workItem from="1603809237755" duration="5787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2426" y="460" key="FileChooserDialogImpl" timestamp="1603803355607">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2426" y="460" key="FileChooserDialogImpl/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603803355607" />
+    <state width="2243" height="423" key="GridCell.Tab.0.bottom" timestamp="1603812979051">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1360.738/1360.55.1920.1050@1360.55.1920.1050" timestamp="1603798838066" />
+    <state width="2243" height="423" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603812979051" />
+    <state width="2243" height="423" key="GridCell.Tab.0.center" timestamp="1603812979050">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1360.738/1360.55.1920.1050@1360.55.1920.1050" timestamp="1603798838066" />
+    <state width="2243" height="423" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603812979050" />
+    <state width="2243" height="423" key="GridCell.Tab.0.left" timestamp="1603812979050">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1360.738/1360.55.1920.1050@1360.55.1920.1050" timestamp="1603798838065" />
+    <state width="2243" height="423" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603812979050" />
+    <state width="2243" height="423" key="GridCell.Tab.0.right" timestamp="1603812979050">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1360.738/1360.55.1920.1050@1360.55.1920.1050" timestamp="1603798838066" />
+    <state width="2243" height="423" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603812979050" />
+    <state width="2243" height="354" key="GridCell.Tab.1.bottom" timestamp="1603811362506">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2243" height="354" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603811362506" />
+    <state width="2243" height="354" key="GridCell.Tab.1.center" timestamp="1603811362505">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2243" height="354" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603811362505" />
+    <state width="2243" height="354" key="GridCell.Tab.1.left" timestamp="1603811362505">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2243" height="354" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603811362505" />
+    <state width="2243" height="354" key="GridCell.Tab.1.right" timestamp="1603811362505">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2243" height="354" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603811362505" />
+    <state x="1850" y="235" key="Maven.ArtifactSearchDialog" timestamp="1603798541829">
+      <screen x="1360" y="55" width="1920" height="1050" />
+    </state>
+    <state x="1850" y="235" key="Maven.ArtifactSearchDialog/0.0.1360.738/1360.55.1920.1050@1360.55.1920.1050" timestamp="1603798541829" />
+    <state x="1981" y="228" key="SettingsEditor" timestamp="1603803174269">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1821" y="225" key="SettingsEditor/0.0.1360.738/1360.55.1920.1050@1360.55.1920.1050" timestamp="1603798766930" />
+    <state x="1981" y="228" key="SettingsEditor/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603803174269" />
+    <state x="2610" y="287" key="run.anything.popup" timestamp="1603810538491">
+      <screen x="1366" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2610" y="287" key="run.anything.popup/0.0.1366.738/1366.0.2560.1410@1366.0.2560.1410" timestamp="1603810538491" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/simple/src/test/java/com/awin/tracking/tcf/AppTest.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/simple/src/test/java/com/awin/tracking/tcf/AppTest.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
